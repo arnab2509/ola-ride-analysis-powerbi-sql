@@ -45,33 +45,33 @@ Ride-sharing platforms like Ola generate massive volumes of booking and operatio
 ### 📊 Page 1: Exclusive Overview
 - KPIs: Total Bookings, Completed Rides, Avg VTAT/CTAT
 - Charts: Revenue vs Estimated Loss, Bookings Trend, Vehicle Distribution  
-![Page 1](Dashboard/Dashbord_pg1.png)
+![Page 1](./Dashbord/Dashbord_pg1.png)
 
 ---
 
 ### 📍 Page 2: Customer Insights
 - KPIs: Total Customers, Repeat Customers
 - Charts: Top Pickup & Drop Locations, Cancellation Reasons  
-![Page 2](Dashboard/Dashbord_pg2.png)
+![Page 2](./Dashbord/Dashbord_pg2.png)
 
 ---
 
 ### ⚙️ Page 3: Functional Overview
 - Completed vs Incomplete Rides by Vehicle
 - Cancellation by Driver vs Customer  
-![Page 3](Dashboard/Dashbord_pg3.png)
+![Page 3](./Dashbord/Dashbord_pg3.png)
 
 ---
 
 ### ⏱️ Page 4: Operational Efficiency
 - Avg VTAT/CTAT by Vehicle Type
 - CTAT vs VTAT Scatter  
-![Page 4](Dashboard/Dashbord_pg4.png)
+![Page 4](./Dashbord/Dashbord_pg4.png)
 
 ---
 
 🎥 **Dashboard Walkthrough Video**  
-📽️ [View Video Dashboard](Dashboard/Dashbord_video.mp4)
+📽️ [Download Dashboard Video](./Dashbord/Dashbord_video.mp4)
 
 ---
 
